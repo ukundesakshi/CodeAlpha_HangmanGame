@@ -1,1 +1,1 @@
-# CodeAlpha_HangmanGame
+# CodeAlpha_InternshipTasks
